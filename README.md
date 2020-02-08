@@ -1,2 +1,3 @@
 # SidSam
-reference of all repositories goals and all.
+It will be helpful for planning activities and will mention WHY perticular technology, HOW that technology address perticular Software Engineering Solution.
+
